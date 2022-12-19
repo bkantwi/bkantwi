@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I'm a Software Engineer and a Data Scientist<br>🤼‍♀️ Ready to collaborate <br>🎯 Currently working to build a better Finderucc.com platform<br>
+⚒️ I'm a Software Engineer and a Data Scientist<br>🤼‍♀️ Ready to collaborate <br>🎯 My goal is very simple. I am going to create the platform that brings all students together online.<br>
 
 
 ## 🌐 Socials:
