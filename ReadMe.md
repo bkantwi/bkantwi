@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I'm a Software Engineer and a Data Scientist<br>🤼‍♀️ Ready to collaborate <br>🎯 My goal is very simple. I am going to create the platform that brings all students together online.<br>
+⚒️ I'm a Software Engineer and a Data Scientist<br>🤼‍♀️ Ready to collaborate <br>🎯 My goal is very simple. I am going to create the platform that brings all students together online.<br>Ask me about PHP, Laravel, Flutter, Python
 
 
 ## 🌐 Socials:
